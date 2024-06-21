@@ -1,0 +1,33 @@
+{
+  "content_url": "ipfs://bafybeibcarbhzidgwzdsnmkeso55oap6u4oajsndbfzdjljn6r3fxl73ui/TONFROGS_210000-0075.mp4",
+  "description": "TON Frogs is a limited NFT collection on TON (The Open Network) that consists of 5 555 unique 3D-animated frogs",
+  "content_type": "video/mp4",
+  "name": "TON FROGS 21",
+  "image": "ipfs://bafybeieijrjzfzflgxdzechh4opzygn5d62s5l3pt6g7jvw2uqdqctaoru/TONFROGS_21.jpg",
+  "attributes": [
+    {
+      "trait_type": "RARE&NULL",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "FROGS",
+      "value": "Basketfrog"
+    },
+    {
+      "trait_type": "EYEBALL",
+      "value": "Black"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "SKINS",
+      "value": "Red Rage"
+    },
+    {
+      "trait_type": "SETS",
+      "value": "Basketfrog 1"
+    }
+  ]
+}

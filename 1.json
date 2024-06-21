@@ -1,0 +1,33 @@
+{
+  "name": "Tank Top White  #1",
+  "description": "A basic white top that will fit into any wardrobe.",
+  "content_type": "video/mp4",
+  "image": "ipfs://Qma3FBhG2CFBkTUHijNgBzogrPSRQAfduEKJdLwTbqhbm9/Tank-top-women-white.png",
+  "content_url": "ipfs://Qma3FBhG2CFBkTUHijNgBzogrPSRQAfduEKJdLwTbqhbm9/Tank-top-women-white.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity ",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Cotton "
+    },
+    {
+      "trait_type": "Type",
+      "value": "Top"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "margin",
+      "value": "5%"
+    },
+    {
+      "trait_type": "tailoring margin",
+      "value": "5%"
+    }
+  ]
+}
