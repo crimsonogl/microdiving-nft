@@ -1,33 +1,31 @@
 {
-  "name": "Tank Top White  #1",
-  "description": "A basic white top that will fit into any wardrobe.",
-  "content_type": "video/mp4",
-  "image": "ipfs://Qma3FBhG2CFBkTUHijNgBzogrPSRQAfduEKJdLwTbqhbm9/Tank-top-women-white.png",
-  "content_url": "ipfs://Qma3FBhG2CFBkTUHijNgBzogrPSRQAfduEKJdLwTbqhbm9/Tank-top-women-white.mp4",
+  "name": "Storme",
+  "image": "https://s.getgems.io/nft/b/c/63d7e78c8b4225a3b118b52b/Ba5-Bo7-Fa7-He18-Sk5.png",
   "attributes": [
     {
-      "trait_type": "Rarity ",
-      "value": "Common"
+      "trait_type": "Background",
+      "value": "Forest"
     },
     {
-      "trait_type": "Material",
-      "value": "Cotton "
+      "trait_type": "Body",
+      "value": "Worker"
     },
     {
-      "trait_type": "Type",
-      "value": "Top"
+      "trait_type": "Face",
+      "value": "Sleepy"
     },
     {
-      "trait_type": "Color",
-      "value": "White"
+      "trait_type": "Head",
+      "value": "Curly"
     },
     {
-      "trait_type": "margin",
-      "value": "5%"
+      "trait_type": "Skin",
+      "value": "Pink"
     },
     {
-      "trait_type": "tailoring margin",
-      "value": "5%"
+      "trait_type": "Generation",
+      "value": "3"
     }
-  ]
+  ],
+  "description": "Merge me with another Lost Dog on Getgems.io to create a new, unique NFT. Go to Getgems.io, open my NFT page, tap the “Merge NFT” button, share the link with another dog owner, and wait for your new dog offspring NFT to show up in your wallet. If you’re looking to create the rarest dog possible, check out our Mutagens Collection! To connect with other dog owners and read more detailed instructions, visit our official channels and join the chat."
 }
